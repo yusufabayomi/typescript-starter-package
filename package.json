@@ -51,7 +51,7 @@
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
-      "@semantic-releasse/release-notes-generator",
+      "@semantic-release/release-notes-generator",
       [
         "@semantic-release/changelog",
         {
