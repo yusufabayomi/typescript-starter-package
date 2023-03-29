@@ -1,7 +1,7 @@
 {
   "name": "@yusufabayomi/typescript-package-starter",
   "version": "0.0.0-semantic-release",
-  "description": "TypeScript boilerplate for npm or Github Packages",
+  "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "prepare": "husky install",
@@ -18,7 +18,10 @@
   ],
   "author": "Abayomi Yusuf",
   "license": "ISC",
-  "repository": "git@github.com:yusufabayomi/typescript-starter-package.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:boohoo-com/react-component-library.git"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
