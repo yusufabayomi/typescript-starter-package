@@ -20,7 +20,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:boohoo-com/react-component-library.git"
+    "url": "git@github.com:yusufabayomi/typescript-starter-package.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
