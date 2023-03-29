@@ -17,7 +17,7 @@ jobs:
       with:
         node-version: '18.x'
         registry-url: 'https://npm.pkg.github.com'
-        # Defaults to the user or organization that owns the workflow filee
+        # Defaults to the user or organization that owns the workflow fileeeee
     - name: Install dependencies
       run: npx ci
     - name: Install semantic-release extra plugins
