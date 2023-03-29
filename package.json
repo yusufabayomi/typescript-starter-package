@@ -1,7 +1,7 @@
 {
   "name": "@yusufabayomi/typescript-package-starter",
   "version": "0.0.0-semantic-release",
-  "description": "TypeScript boilerplate for NPM or Github Packages",
+  "description": "TypeScript boilerplate for npm or Github Packages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "prepare": "husky install",
