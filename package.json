@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-starter",
+  "name": "@yusufabayomi/typescript-package-starter",
   "version": "1.1.0",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -27,11 +27,13 @@
     "ts-node": "^10.2.1",
     "typescript": "~4.4.3"
   },
-  "dependencies": {},
   "engines": {
     "node": ">=8"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@yusufabayomi"
+  },
+  "directories": {
+    "test": "test"
   }
 }
