@@ -18,6 +18,7 @@
   ],
   "author": "Abayomi Yusuf",
   "license": "ISC",
+  "repository": "git@github.com:yusufabayomi/typescript-starter-package.git",
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
