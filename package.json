@@ -18,6 +18,10 @@
   ],
   "author": "Abayomi Yusuf",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:boohoo-com/react-component-library.git"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
