@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/yusufabayomi/typescript-starter-package/compare/v1.1.4...v1.1.5) (2023-03-30)
+
+
+### Bug Fixes
+
+* **workflow:** forcing a push ([5f29995](https://github.com/yusufabayomi/typescript-starter-package/commit/5f299952702a8206d13ecee52613d368e0300697))
+
 ## [1.1.3](https://github.com/yusufabayomi/typescript-starter-package/compare/v1.1.2...v1.1.3) (2023-03-30)
 
 
