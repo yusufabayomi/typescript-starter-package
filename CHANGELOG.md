@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/yusufabayomi/typescript-starter-package/compare/v1.1.7...v1.1.8) (2023-03-30)
+
+
+### Bug Fixes
+
+* **workflow:** removes npm token ([fd1081f](https://github.com/yusufabayomi/typescript-starter-package/commit/fd1081f4375029865822f5c1240f25c4643dcaee))
+
 ## [1.1.7](https://github.com/yusufabayomi/typescript-starter-package/compare/v1.1.6...v1.1.7) (2023-03-30)
 
 
