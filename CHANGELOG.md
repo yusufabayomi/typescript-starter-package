@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/yusufabayomi/typescript-starter-package/compare/v1.1.5...v1.1.6) (2023-03-30)
+
+
+### Bug Fixes
+
+* **workflow:** changes token ([eb6134b](https://github.com/yusufabayomi/typescript-starter-package/commit/eb6134b5723dfab7b451bc9a62ca3820a7bf3c3a))
+
 ## [1.1.5](https://github.com/yusufabayomi/typescript-starter-package/compare/v1.1.4...v1.1.5) (2023-03-30)
 
 
